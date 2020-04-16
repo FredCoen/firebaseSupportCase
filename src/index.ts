@@ -1,0 +1,2 @@
+
+export { batching } from './failingFunction'
